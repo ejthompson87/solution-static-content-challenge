@@ -1,0 +1,20 @@
+{
+  "name": "static-content-challenge-master",
+  "version": "1.0.0",
+  "description": "**NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "author": "Emma Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "marked": "^0.3.6",
+    "mustache-express": "^1.2.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
